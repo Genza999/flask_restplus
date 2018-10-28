@@ -39,11 +39,6 @@ python manage.py run - To Run the application
 http://127.0.0.1:5000/
 ```
 
-
-### Author 
-
-Kisekka David
-
 ### Credit
 
 Greg Obina for developing this beautiful Flask RestPlus Api Boiler Plate
